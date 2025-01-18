@@ -40,7 +40,7 @@ To start the backend API, run the following command in your terminal:
 ```bash
 uvicorn main:app --reload
 ```
-This will start the Uvicorn server with auto-reloading enabled. The API will be accessible at http://localhost:8000.
+This will start the Uvicorn server with auto-reloading enabled. The API will be accessible at http://localhost:8000/docs.
 
 ## Contact
 If you have any questions or suggestions, feel free to contact us at thanhlich2103gg@gmail.com.
