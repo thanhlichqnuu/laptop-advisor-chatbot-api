@@ -30,7 +30,7 @@ Before you begin, ensure you have met the following requirements:
     It's recommended to create a virtual environment before installing dependencies:
     Install the required packages using `pip`:
     ```bash
-    pip install -r requirement.txt
+    pip install -r requirements.txt
     ```
 
 ## Running the Application
