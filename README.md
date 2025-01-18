@@ -23,7 +23,7 @@ Before you begin, ensure you have met the following requirements:
 1.  **Clone the Repository** (If applicable, otherwise, provide other instructions)
     ```bash
     git clone https://github.com/thanhlichqnuu/laptop-advisor-chatbot-api.git
-    cd laptop-advisor-chatbot-api
+    cd laptop-advisor-chatbot-api-main
     ```
 
 2.  **Install Dependencies:**
